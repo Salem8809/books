@@ -1,3 +1,18 @@
+body{
+  text-align: center;
+  color:white;
+  background-repeat:no-repeat;
+    background-size:cover;
+  background-image: url(https://html5backgroundvideos.com/wp-content/uploads/2015/09/programming-ide.jpg)
+
+}
+.hidden{
+  display: none;
+}
+a{
+  color:lightblue;
+}
+
 .App {
   text-align: center;
 }
